@@ -1,0 +1,6 @@
+*.bak
+*.bkp
+
+fluidd.cfg
+moonraker.conf
+printer.cfg
